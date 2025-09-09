@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Custom colors */
+:root {
+  --campus-orange: #FF9E44;
+  --campus-yellow: #FFD166;
+  --campus-green: #A8E6CF;
+  --campus-teal: #6EC6CA;
+  --campus-cream: #FFF9EC;
+}
+
+body {
+  background-color: var(--campus-cream);
+}
